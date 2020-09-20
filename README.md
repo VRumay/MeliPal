@@ -1,2 +1,2 @@
 # MeliPal
- Web Scraper for Mercadolibre.com.ar (BueatifulSoup 4 + Pandas)
+ Web Scraper for Mercadolibre.com.ar (BeautifulSoup 4 + Pandas)
